@@ -1,0 +1,8 @@
+streamlit
+langchain
+langgraph
+langsmith
+openai
+pdfplumber
+python-docx
+pandas
